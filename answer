@@ -1,0 +1,12 @@
+1 -> O(1) in best case and O(n) in worst case.
+
+2 ->  O(√n)
+
+3 -> Time complexity = O(1) in best case and O(max(a, b)) worst case.
+
+4 -> O(logx n) 
+          
+          
+5 -> O(n2 log2 n). 
+
+          
